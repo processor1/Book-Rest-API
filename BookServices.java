@@ -8,7 +8,7 @@ import java.util.List;
 import org.models.Book;
 
 /*\
- * @author PROF_MONEY
+ *  @author Mark Kpodo
  */
 public class BookServices {
 
