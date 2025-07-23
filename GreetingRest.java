@@ -10,7 +10,7 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.Path;
 /**
  *
- * @author PROF_MONEY
+ *  @author Mark Kpodo
  */
 @Path("app/version")
 public class GreetingRest {
