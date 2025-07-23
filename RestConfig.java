@@ -11,7 +11,7 @@ import jakarta.ws.rs.Produces;
 
 /**
  *
- * @author PROF_MONEY
+ *  @author Mark Kpodo
  */
 @ApplicationPath("rest")
 public class RestConfig extends jakarta.ws.rs.core.Application {
