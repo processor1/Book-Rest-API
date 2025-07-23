@@ -6,7 +6,7 @@ package org.models;
 
 /**
  *
- * @author PROF_MONEY
+ * @author Mark Kpodo
  */
 public class Book {
 
